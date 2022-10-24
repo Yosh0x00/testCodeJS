@@ -1,0 +1,2 @@
+# testCodeJS
+For trainig JS
